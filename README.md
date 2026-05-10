@@ -1,2 +1,2 @@
 # FastSelectionTreeView
-Fast selection behavior for QTreView.
+Fast selection behavior for QTreeView.
